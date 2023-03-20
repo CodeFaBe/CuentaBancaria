@@ -43,4 +43,5 @@ public void imprimir() {
     System.out.println("Valor de sogregiro = $" + (númeroConsignaciones + númeroRetiros));
     System.out.println();
 }
+    System.out.println();
 }
