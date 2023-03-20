@@ -34,6 +34,8 @@ float interesMensual = saldo * tasaMensual;
 saldo += interesMensual; 
 }
 
+System.out.println("Esto es un mensaje de prueba")
+
 public void extractoMensual() { 
 saldo -= comisiónMensual; 
 calcularInterés();
